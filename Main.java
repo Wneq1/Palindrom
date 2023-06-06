@@ -18,7 +18,6 @@ class Main {
             }
             k--;
         }
-
         if (kk == 1)
             System.out.println("Nie jest palindromem");
         else {
